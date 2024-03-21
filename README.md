@@ -1,19 +1,19 @@
-    # My Generative AI Experiment
+# My Generative AI Experiment
 
-    I am trying out Generative AI and documenting my progress in this repository.
+I am trying out Generative AI and documenting my progress in this repository.
 
-    ## Introduction
+## Introduction
 
-    In this project, I will be exploring the fascinating world of Generative AI and experimenting with various techniques and models.
+In this project, I will be exploring the fascinating world of Generative AI and experimenting with various techniques and models.
 
-    ## Goals
+## Goals
 
-    - Learn the fundamentals of Generative AI
-    - Implement different generative models
-    - Generate realistic and creative outputs
+- Learn the fundamentals of Generative AI
+- Implement different generative models
+- Generate realistic and creative outputs
 
-    ## Progress
+## Progress
 
-    I will be updating this README file regularly to share my progress, insights, and any interesting findings.
+I will be updating this README file regularly to share my progress, insights, and any interesting findings.
 
-    Stay tuned for more updates!
+Stay tuned for more updates!
